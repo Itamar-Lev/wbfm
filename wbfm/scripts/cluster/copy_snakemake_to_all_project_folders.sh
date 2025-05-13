@@ -7,7 +7,7 @@
 #  bash ./copy_snakemake_files.sh -s /path/to/default_snakemake -p /path/to/root_folder
 #
 # Example:
-#  bash /lisc/scratch/neurobiology/zimmer/wbfm/code/wbfm/wbfm/scripts/cluster -s /lisc/scratch/neurobiology/zimmer/wbfm/code/wbfm/wbfm/new_project_defaults/snakemake -p /lisc/scratch/neurobiology/zimmer/ItamarLev/WBFM/WBFM_projects/mutant_screen_3per
+#  bash /lisc/scratch/neurobiology/zimmer/wbfm/code/wbfm/wbfm/scripts/cluster/copy_snakemake_to_all_project_folders.sh -s /lisc/scratch/neurobiology/zimmer/wbfm/code/wbfm/wbfm/new_project_defaults/snakemake -p /lisc/scratch/neurobiology/zimmer/ItamarLev/WBFM/WBFM_projects/mutant_screen_3per
 #
 # The script will:
 #   - Find all project folders under root_folder that contain a "snakemake" folder
